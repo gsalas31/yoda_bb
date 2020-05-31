@@ -1,0 +1,18 @@
+h1,h4 {text-align: center;
+color: darkcyan;}
+.p1 {background-color: cornflowerblue;}
+#par {
+    padding:20px;
+    border:1px solid chartreuse;
+    margin: 20px 
+}
+.titulo{
+    background-color:chartreuse;
+    width: 100%;
+    position:fixed ;
+    top:0;
+    left:0;
+}
+body{ 
+    padding-top: 80px;
+}
